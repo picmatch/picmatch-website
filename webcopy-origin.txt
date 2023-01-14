@@ -18,7 +18,7 @@ Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
 File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\img\background-image.svg
 Content Type: image/svg+xml
 
-Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5cd2478815a5c14d117b791b
+Uri: https://d3e54v103j8qbb.cloudfront.net/jquery-3.5.1.min.js
 File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\js\jquery-3.5.1.min.dc5e7f18c8.js
 Content Type: application/javascript
 
@@ -27,15 +27,15 @@ File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\v2\chargebee.js
 Content Type: application/x-javascript
 
 Uri: https://picmatch.io/
-File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\index.htm
+File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\./
 Content Type: text/html
 
 Uri: https://picmatch.io/about
-File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\about.html
+File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\about
 Content Type: text/html
 
 Uri: https://picmatch.io/blog
-File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\blog.html
+File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\blog
 Content Type: text/html
 
 Uri: https://picmatch.io/blog/why-stock-photographers-need-to-use-reverse-image-search
@@ -47,19 +47,19 @@ File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\blog\without-my-consent
 Content Type: text/html
 
 Uri: https://picmatch.io/contact
-File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\contact.html
+File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\contact
 Content Type: text/html
 
 Uri: https://picmatch.io/service/faq
-File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\service\faq.html
+File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\service\faq
 Content Type: text/html
 
 Uri: https://picmatch.io/service/features
-File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\service\features.html
+File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\service\features
 Content Type: text/html
 
 Uri: https://picmatch.io/service/pricing
-File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\service\pricing.html
+File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\service\pricing
 Content Type: text/html
 
 Uri: https://platform-api.sharethis.com/js/sharethis.js
