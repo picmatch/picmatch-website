@@ -35,7 +35,7 @@ File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\about
 Content Type: text/html
 
 Uri: https://picmatch.io/blog
-File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\blog.html
+File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\service/blog
 Content Type: text/html
 
 Uri: https://picmatch.io/blog/why-stock-photographers-need-to-use-reverse-image-search
