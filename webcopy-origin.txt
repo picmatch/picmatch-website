@@ -31,7 +31,7 @@ File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\index.htm
 Content Type: text/html
 
 Uri: https://picmatch.io/about
-File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\about.html
+File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\about
 Content Type: text/html
 
 Uri: https://picmatch.io/blog
