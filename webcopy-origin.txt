@@ -27,7 +27,7 @@ File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\v2\chargebee.js
 Content Type: application/x-javascript
 
 Uri: https://picmatch.io/
-File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\index.htm
+File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\./
 Content Type: text/html
 
 Uri: https://picmatch.io/about
