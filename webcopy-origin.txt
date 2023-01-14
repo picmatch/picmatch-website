@@ -47,19 +47,19 @@ File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\blog\without-my-consent
 Content Type: text/html
 
 Uri: https://picmatch.io/contact
-File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\contact.html
+File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\contact
 Content Type: text/html
 
 Uri: https://picmatch.io/service/faq
-File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\service\faq.html
+File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\service\faq
 Content Type: text/html
 
 Uri: https://picmatch.io/service/features
-File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\service\features.html
+File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\service\features
 Content Type: text/html
 
 Uri: https://picmatch.io/service/pricing
-File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\service\pricing.html
+File Name: C:\Users\yanic\Downloads\Websites\picmatch.io\service\pricing
 Content Type: text/html
 
 Uri: https://platform-api.sharethis.com/js/sharethis.js
